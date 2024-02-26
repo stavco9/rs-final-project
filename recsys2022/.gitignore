@@ -137,5 +137,5 @@ pipeline_models_for_ensemble/RecSys_Course_AT_PoliMi/
 dataset/**/*.csv
 rankers/*.txt
 rankers-backup/*.txt
-leaderboard_sub.csv
-final_sub.csv
+leaderboard_sub*.csv
+final_sub*.csv
